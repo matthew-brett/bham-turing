@@ -27,14 +27,14 @@ Look for `bham_turing_th1_handout.pdf` in the `townhall-1` directory.
 * <https://www.turing.ac.uk/people/researchers/matthew-brett>
 * Analysis of functional brain images, since 1996;
 * At UC Berkeley from 2003-2005, 2008-2017.
-* Read more at [What is data
-  science?](https://matthew-brett.github.io/dsfe/chapters/01/what-is-data-science)
+* Read more at
+  <https://matthew-brett.github.io/dsfe/chapters/01/what-is-data-science>
 
 # A definition of data science ...
 
 > The now-contemplated field of Data Science amounts to a superset of the
 > fields of statistics and machine learning which adds some technology for
-> ‘scaling up’ to ‘big data’. -- @donoho201550
+> ‘scaling up’ to ‘big data’. -- "50 years of data science" @donoho201550
 
 # ... that would be a disastrous error
 
@@ -49,10 +49,11 @@ Look for `bham_turing_th1_handout.pdf` in the `townhall-1` directory.
 
 * **Lesser data science**: superset of the fields of statistics and machine
   learning + technology for big data.
-* ** Greater data science**: a radical change in approach to data analysis,
-  founded on code, that emphasizes visualization, exploration and versatility.
+* **Greater data science**: a radical change in approach to data analysis,
+  that emphasizes analysis with code, visualization, exploration and
+  versatility.
 
-# Tukey's approach
+# The future of data analysis (1962)
 
 > Far better an approximate answer to the right question, which is often
 > vague, than an exact answer to the wrong question, which can always be made
@@ -64,11 +65,11 @@ Look for `bham_turing_th1_handout.pdf` in the `townhall-1` directory.
 
 We have to decide how to respond:
 
-* Lesser data science:
+* Lesser data science: a small change:
     * Research: hire more machine learning experts
     * Teaching: expand advanced level courses in machine learning; add
       vocational courses for "data science" jobs.
-* Greater data science:
+* Greater data science: a large change:
     * Research: hire domain experts who have dealt with difficult data using
       computation.  Emphasize collaboration across disciplines.  Arrange university structures to support fluid collaboration.
     * Teaching: early undergraduate course in data analysis; transform teaching
@@ -102,7 +103,7 @@ We have to decide how to respond:
 
 [@davenport2012data] - "Who Are These People?"
 
-# Versatile
+# Data scientists are versatile
 
 > ... on any given day, a team member could author a multistage processing
 > pipeline in Python, design a hypothesis test, perform a regression analysis
@@ -112,14 +113,14 @@ We have to decide how to respond:
 
 Jeff Hammerbacher quoted in [@loukides2010what_is]
 
-# US developments in data science: teaching
+# Developments in data science: teaching
 
 > ... academic institutions should encourage the development of a basic
 > understanding of data science in all undergraduates.
 
 @natacad2018ds
 
-# US developments in data science: research
+# Developments in data science: research
 
 *   Careers
 *   Education and Training
@@ -147,8 +148,8 @@ Moore-Sloan Data Science Environments: Themes. <http://msdse.org/themes>. (\$37.
   requirements in mathematics or programming.  Running since 2015.
 * Large (~900 student) intermediate course [Principles and techniques of data
   science](http://www.ds100.org) with further requirements in Python programming and linear algebra.
-* [27 Connector courses](https://data.berkeley.edu/education/connectors) using
-  teaching methods from the foundation course.
+* [27 Connector courses](https://data.berkeley.edu/education/connectors):
+  domain applications of teaching methods from the foundation course.
 * The greatest change in undergraduate teaching in a generation.
 
 # Recruiting for data science research
